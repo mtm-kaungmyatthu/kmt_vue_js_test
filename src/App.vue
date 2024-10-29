@@ -20,7 +20,7 @@ import HelloWorld from './components/HelloWorld.vue'
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
         <RouterLink to="/message">Message</RouterLink>
-        <RouterLink to="/message2">Message2</RouterLink>
+        <RouterLink to="/message2">To do List</RouterLink>
         <RouterLink to="/todolistusingevents"
           >To Do List Using Events</RouterLink
         >
