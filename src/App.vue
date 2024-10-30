@@ -27,6 +27,10 @@ import HelloWorld from './components/HelloWorld.vue'
         <RouterLink to="/login">Login</RouterLink>
         <RouterLink to="/register">Register</RouterLink>
         <RouterLink to="/crudsample">crudsample</RouterLink>
+        <RouterLink to="/todolistvuex">To Do List Using Vuex</RouterLink>
+        <RouterLink to="/todolistvuexandcomponents"
+          >To Do List Using Vuex And Components</RouterLink
+        >
       </nav>
     </div>
   </header>

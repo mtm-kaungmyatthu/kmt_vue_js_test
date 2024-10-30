@@ -52,6 +52,16 @@ const router = createRouter({
       name: 'crudsample',
       component: () => import('../views/SampleCrud.vue'),
     },
+    {
+      path: '/todolistvuex',
+      name: 'todolistvuex',
+      component: () => import('../views/ToDoListUsingVuex.vue'),
+    },
+    {
+      path: '/todolistvuexandcomponents',
+      name: 'todolistvuexandcomponents',
+      component: () => import('../views/ToDoListVuexAndComponents.vue'),
+    },
   ],
 })
 
